@@ -1,0 +1,16 @@
+# OS & Editor temp files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# Unity / stage artifacts if tested locally
+_stage/
+Temp/
+Library/
+Logs/
+Obj/
+*.tmp
+*.bak
