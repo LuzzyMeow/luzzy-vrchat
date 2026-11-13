@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="luzzy-vrchat — VRChat Avatar Modding Skill" width="100%" />
+<img src="assets/banner.gif" alt="luzzy-vrchat — VRChat Avatar Modding Skill" width="100%" />
 
 <br />
 
